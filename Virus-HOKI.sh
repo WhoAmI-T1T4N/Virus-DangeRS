@@ -29,6 +29,7 @@ echo "Lagi Loading, Bebb..."
 echo "Nihh : https://www20.zippyshare.com/v/qV80sqbq/file.html"
 fi
 if [ $santai = "2" ]
+then
 figlet Tunggu
 figlet Sobb
 echo "Tunggu..."
